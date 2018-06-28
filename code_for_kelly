@@ -1,0 +1,5 @@
+//prints times
+    int num_times = my_input[num_lines - 1][2];
+    for(int i = 0; i <= num_times; i++) {
+        printf("%d: \n", i);
+    }
